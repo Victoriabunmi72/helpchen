@@ -1,0 +1,8 @@
+Write 20 git commands and their functions:
+
+1. ls = it to list all the files in a directory
+2. cd = change directory
+3. rm = remove file
+4. rmdir = remove empty directories
+5. rm -r (name of directory) = to remove non empty directory
+6. ls -l = list hiden files
