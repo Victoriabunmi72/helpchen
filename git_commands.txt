@@ -1,8 +1,22 @@
-Write 20 git commands and their functions:
+"20 Git commands and their functions)"
 
-1. ls = it to list all the files in a directory
-2. cd = change directory
-3. rm = remove file
-4. rmdir = remove empty directories
-5. rm -r (name of directory) = to remove non empty directory
-6. ls -l = list hiden files
+1. git init: Initializes a new Git repository.
+2. git clone <repository-url>: Clones a repository to the local machine.
+3. git add <file>: Adds changes in a file to the staging area.
+4. git commit -m "message": Commits changes with a descriptive message.
+5. git status: Shows the status of changes as untracked, modified, or staged.
+6. git log: Displays commit history.
+7. git branch: Lists all branches in the repository.
+8. git checkout <branch>: Switches to a specified branch.
+9. git merge <branch>: Merges changes from one branch to another.
+10. git pull: Fetches changes from the remote repository and merges them.
+11. git push: Pushes committed changes to the remote repository.
+12. git remote -v: Lists remote repositories.
+13. git fetch: Retrieves changes from the remote repository without merging.
+14. git diff: Shows differences between commits, branches, or files.
+15. git reset <file>: Unstages changes in a file.
+16. git revert <commit>: Creates a new commit that undoes a previous commit.
+17. git branch -d <branch>: Deletes a specified branch.
+18. git stash: Temporarily saves changes not ready to be committed.
+19. git tag <tag-name>: Creates a lightweight tag at the current commit.
+20. git remote add origin <repository-url>: Adds a remote repository.s

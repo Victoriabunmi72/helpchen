@@ -1,5 +1,16 @@
-How to install git on a local machine:
+"How to install git on a local machine"
+Installing Git on Windows:
 
-1. jf.hdjhkljglh;
-2 g.jkhljk;
-3. hjghkl;jk
+1. Download the Git installer from git-scm.com.
+	Run the installer and follow the prompts.
+	Open the Git Bash terminal to verify the installation.
+	Installing Git on macOS:
+
+2. Install Homebrew if not already installed (/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)").
+	Install Git with Homebrew (brew install git).
+	Open the terminal to verify the installation.
+	Installing Git on Linux (Debian/Ubuntu):
+
+3. Run the command sudo apt update.
+	Install Git with sudo apt install git.
+	Open the terminal to verify the installation.
